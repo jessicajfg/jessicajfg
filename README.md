@@ -26,7 +26,7 @@ Minha atuação reúne suporte ao usuário e investigação técnica: registro e
 
 ### 📚 Em desenvolvimento
 
-`PL/SQL` · `Microsoft 365` · `Exchange Online` · `SAP S/4HANA Cloud`
+`PL/SQL` · `Microsoft 365` · `Exchange Online`
 
 ---
 
