@@ -20,9 +20,9 @@ Minha atuação reúne suporte ao usuário e investigação técnica: registro e
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+**Ferramentas de suporte:** Jira · Zendesk · AnyDesk · TeamViewer  
 **Suporte:** N1/N2 · troubleshooting · tickets · SLA · escalonamento · documentação · testes funcionais  
-**Infraestrutura básica:** Windows Server · TCP/IP · DNS · DHCP · VPN · Ping · Ipconfig · Tracert  
-**Acesso remoto:** AnyDesk · TeamViewer
+**Infraestrutura básica:** Windows Server · TCP/IP · DNS · DHCP · VPN · Ping · Ipconfig · Tracert
 
 ### 📚 Em desenvolvimento
 
