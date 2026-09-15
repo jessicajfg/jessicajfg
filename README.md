@@ -27,3 +27,22 @@ Tenho experiência com SQL, gestão de usuários e permissões, testes funcionai
 ### 📚 Atualmente estudando
 
 `PL/SQL` · `Microsoft 365` · `Exchange Online` · `SAP S/4HANA Cloud`
+
+---
+
+## 🚀 Projetos em destaque
+
+### 🗄️ [Suporte TI com SQL Server e SSMS](https://github.com/jessicajfg/projeto-suporte-ti-sql-server)
+Projeto prático com uma base de chamados simulando um ambiente de Service Desk. Inclui relacionamentos entre tabelas, consultas com JOINs, filtros, agregações e transações voltadas à análise de chamados, SLA e histórico de atendimento.
+
+**Competências aplicadas:** `SQL` · `SQL Server` · `SSMS` · `Banco de Dados` · `Suporte a Sistemas`
+
+### 🎫 [Central de Suporte TI no Jira](https://github.com/jessicajfg/central-suporte-ti-jira)
+Simulação de uma central de atendimento com workflow de chamados, priorização, SLA, escalonamento N1/N2/N3, reabertura, status personalizados e automações para diferentes etapas do suporte.
+
+**Competências aplicadas:** `Jira` · `Service Desk` · `SLA` · `Gestão de Chamados` · `Troubleshooting`
+
+### 👥 [Laboratório de Active Directory para Suporte N1](https://github.com/jessicajfg/laboratorio-active-directory-suporte-n1)
+Laboratório voltado às atividades mais comuns de suporte N1 em Active Directory, com organização de domínio e OUs, criação de usuários e grupos, reset e desbloqueio de contas, permissões NTFS e validação de acessos.
+
+**Competências aplicadas:** `Active Directory` · `Windows Server` · `Usuários e Grupos` · `Permissões` · `Suporte N1`
