@@ -32,6 +32,11 @@ Minha atuação reúne suporte ao usuário e investigação técnica: registro e
 
 ## 🚀 Projetos em destaque
 
+### ☁️ [Data Lake de Suporte Técnico com Google BigQuery](https://github.com/jessicajfg/data-lake-suporte-tecnico)
+Projeto de análise de dados aplicado a Service Desk, integrando chamados e logs técnicos no Google BigQuery. Inclui consultas SQL para SLA, CSAT, reincidência, tempo de resolução, severidade de eventos e JOIN entre diferentes fontes de dados.
+
+**Competências aplicadas:** `Google BigQuery` · `SQL` · `Big Data` · `Service Desk` · `Análise de Dados` · `Logs`
+
 ### 🗄️ [Suporte TI com SQL Server e SSMS](https://github.com/jessicajfg/projeto-suporte-ti-sql-server)
 Base de dados de chamados criada para praticar SQL em um cenário de suporte. O projeto inclui tabelas relacionadas, JOINs, filtros, agregações e atualização segura de registros com transações.
 
